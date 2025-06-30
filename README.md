@@ -120,24 +120,22 @@ This option provides robust, cloud-independent ecological intelligence.
 
 ```
 /data/
-  lyra_soil_v3_train.jsonl
-  lyra_soil_v3_val.jsonl
+lyra_soil_v3_train.jsonl → Fine-tuning training dataset
+lyra_soil_v3_val.jsonl → Validation dataset
+
+/notebooks/
+dataset_check.py → Python script to check duplicates, ranges, and logic
 
 /screenshots/
-  lyra_interface_replit.png
-  lyra_output_docs.png
+Animation.gif → Interface preview (Replit + workflow flow)
+Metric.png → Final learning curve after training
+Result.png → Output sample in formatted document
+When_message_is_sent.png → Confirmation interface on dispatch
+Workflow_Make.png → Diagram of the Make.com scenario
 
-/app/
-  form.html
-  main.py
-  .env.example
+LISEZ_MOI_VERSION_FRANCAISE.MD → Full French-language README
+README.md → English version (main documentation)
 
-notebooks/
-  verification_script.ipynb
-
-README.md
-README_FR.md
-LICENSE
 ```
 
 ---
