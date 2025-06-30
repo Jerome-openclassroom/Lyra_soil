@@ -131,7 +131,7 @@ Animation.gif → Interface preview (Replit + workflow flow)
 Metric.png → Final learning curve after training
 Result.png → Output sample in formatted document
 When_message_is_sent.png → Confirmation interface on dispatch
-Workflow_Make.png → Diagram of the Make.com scenario
+Workflow_Make.png →  Schematic of the Make.com automation: Replit triggers a fine-tuned GPT-3.5 model (Lyra Soil) and the response is inserted into a Google Doc.
 
 LISEZ_MOI_VERSION_FRANCAISE.MD → Full French-language README
 README.md → English version (main documentation)
